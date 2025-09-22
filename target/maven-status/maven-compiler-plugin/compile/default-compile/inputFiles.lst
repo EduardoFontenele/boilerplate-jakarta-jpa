@@ -1,0 +1,6 @@
+/home/edufonten/Workspace/products-tomcat/src/main/java/com/exemplo/produtos/repository/ProdutoRepository.java
+/home/edufonten/Workspace/products-tomcat/src/main/java/com/exemplo/produtos/entity/Produto.java
+/home/edufonten/Workspace/products-tomcat/src/main/java/com/exemplo/produtos/dto/ProdutoRequest.java
+/home/edufonten/Workspace/products-tomcat/src/main/java/com/exemplo/produtos/config/JPAUtil.java
+/home/edufonten/Workspace/products-tomcat/src/main/java/com/exemplo/produtos/resource/ProdutoResource.java
+/home/edufonten/Workspace/products-tomcat/src/main/java/com/exemplo/produtos/mapper/ProdutoMapper.java

@@ -1,0 +1,6 @@
+com/exemplo/produtos/config/JPAUtil.class
+com/exemplo/produtos/mapper/ProdutoMapper.class
+com/exemplo/produtos/dto/ProdutoRequest.class
+com/exemplo/produtos/entity/Produto.class
+com/exemplo/produtos/resource/ProdutoResource.class
+com/exemplo/produtos/repository/ProdutoRepository.class
